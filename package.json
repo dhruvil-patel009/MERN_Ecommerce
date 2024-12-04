@@ -1,0 +1,20 @@
+{
+  "name": "mern_ecommerce",
+  "version": "1.0.0",
+  "description": "MERN Stack Ecommerce",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Dhruvil Patel",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
