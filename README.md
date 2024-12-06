@@ -17,6 +17,7 @@ npm install Command
 7. npm i bcrypt ===> Password Hasing
 8. npm i jsonwebtoken  ===> For Security use 
 
+create a client folder using this command ==> npx create-react-app client
 Mongo Db
 username :- dhruvilpatel200199
 password :- Mern@2001
