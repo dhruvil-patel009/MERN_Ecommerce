@@ -83,7 +83,6 @@ export const loginController = async (req, res) => {
 
     // check password
     const match = await comparePassword(password, user.password);
-    console.log("Password", match)
 
     // wrong password
     if (!match) {
@@ -120,3 +119,8 @@ export const loginController = async (req, res) => {
   }
 }
 
+// test controller
+
+export const testController = (req, res) => {
+  res.send("Protected Routes")
+}
