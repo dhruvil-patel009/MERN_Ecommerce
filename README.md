@@ -1,5 +1,5 @@
 # MERN_Ecommerce
-6
+7
 
 MERN Stack Ecommerce
 
@@ -15,6 +15,7 @@ npm install Command
 5. npm i mongoose
 6. npm i morgan ===> Shown Api Request
 7. npm i bcrypt ===> Password Hasing
+8. npm i jsonwebtoken  ===> For Security use 
 
 Mongo Db
 username :- dhruvilpatel200199
