@@ -23,11 +23,7 @@ function Header() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <NavLink to="/"
-                                className="nav-link active"
-                                aria-current="page"
-
-                            >
+                            <NavLink to="/" className="nav-link ">
                                 Home
                             </NavLink>
                         </li>
@@ -47,7 +43,7 @@ function Header() {
                             </NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink to="/login" className="nav-link" >
+                            <NavLink to="/cart" className="nav-link" >
                                 Cart
                             </NavLink>
                         </li>

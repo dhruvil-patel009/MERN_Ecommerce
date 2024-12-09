@@ -1,13 +1,11 @@
-import React from 'react'
-import Layout from '../components/Layout/Layout'
+import React from "react";
+import Layout from "../components/Layout/Layout";
 
 function HomePage() {
     return (
-        <Layout>
-            <h1>Home Page</h1>
-
+        <Layout title={"Best offers "}><h1>Home Page</h1>
         </Layout>
-    )
+    );
 }
 
-export default HomePage
+export default HomePage;
