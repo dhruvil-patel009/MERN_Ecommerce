@@ -1,6 +1,6 @@
 # MERN_Ecommerce
 
-17
+17 23:46
 
 MERN Stack Ecommerce
 
@@ -20,6 +20,7 @@ npm install Command
 9. npm i concurrently ===> Run Multiple Command
 10. npm i cors ==> Origin realted Error ne Avoid karva
 11. npm i slugify ==> use White Space in String
+12. npm i express-formidable ==> use any file access and Upload
 
 create a client folder using this command ==> npx create-react-app client
 Mongo Db
