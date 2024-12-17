@@ -104,3 +104,10 @@
   border-radius: 5px;
   top: 5% !important;
 }
+
+/* Product Page Css */
+
+.product-link {
+  text-decoration: none !important;
+  color: black !important;
+}
